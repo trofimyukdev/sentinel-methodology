@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local notes (not for public repo)
+NOTES.md
+TODO.md
+.notes/
+
+# Claude Code local state
+.claude/settings.local.json
+
+# Working drafts not ready for publication
+drafts/
+_wip/
